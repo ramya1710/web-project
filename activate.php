@@ -26,7 +26,7 @@ else
 		}	
 		else
 		{
-		echo "invalid code";
+		echo "invalid code edited by ramya";
 		}
 }
 include 'footer.php';
